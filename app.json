@@ -1,8 +1,8 @@
 {
   "w3_mobile": {
-    "logout": true,
-    "title": "Update 33",
-    "message": "Hello World",
+    "logout": false,
+    "title": "",
+    "message": "",
     "ok": false
   }
 }
